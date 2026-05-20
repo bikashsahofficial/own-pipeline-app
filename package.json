@@ -1,0 +1,30 @@
+{
+  "name": "own-pipeline-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikashsahofficial/own-pipeline-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bikashsahofficial/own-pipeline-app/issues"
+  },
+  "homepage": "https://github.com/bikashsahofficial/own-pipeline-app#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^10.4.0",
+    "jest": "^30.4.2",
+    "supertest": "^7.2.2"
+  }
+}
